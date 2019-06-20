@@ -34,7 +34,7 @@ def main():
         else:
             bmr = -1
         if bmr!=-1:
-            print('基础代谢率：{}大卡' ,format (bmr))
+            print('基础代谢率：{}大卡'.format (bmr))
         else:
             print('暂不支持该性别')
 
